@@ -14,7 +14,16 @@ This project entails a thorough analysis of the Supermart Grocery Sales dataset,
 - Future Work
 - References
 # Installation and Setup:
-To replicate this analysis, ensure you have Python installed along with the following libraries: pip install pandas numpy matplotlib seaborn jupyter.
+To replicate this analysis, ensure you have Python installed along with the following libraries: Launch jupyter notebook to install and import all the libraries
+- pip install numpy.
+- pip install pandas.
+- pip install matplotlib.pyplot
+- pip install seaborn on jupyter notebook.
+  Then you can import the libraries:
+- import numpy as np
+- import pandas as pd
+- import matplotlib.pyplot as plt
+- import seaborn as sns
 Launch jupyter notebook to import all the libraries
 Open the Supermart_Grocery_Sales_Analysis.ipynb notebook to explore the analysis.
 # Data:
