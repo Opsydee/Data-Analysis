@@ -29,7 +29,6 @@ Open the Supermart_Grocery_Sales_Analysis.ipynb notebook to explore the analysis
 # Data:
 Source Data: The dataset is a fictional retail analytics dataset designed for exploratory data analysis and machine learning projects.
 
-Data Acquisition: The dataset can be accessed from the repository or directly from the source.
 
 Data Preprocessing: Data cleaning steps include handling missing values, correcting data types, and standardizing categorical variables to prepare for analysis.
 # Code Structure
@@ -52,6 +51,5 @@ The analysis uncovers key insights such as:
 - Analyzing the effect of regional demographics on sales.
 - Developing a dashboard for real-time sales monitoring.
 # Acknowledgments:
-Gratitude to the creators of the Supermart Grocery Sales dataset for providing a valuable resource for retail analytics exploration.
-# License:
-This project is licensed under the MIT License. See the LICENSE file for details.
+Gratitude to the creators of the Supermart Grocery Sales dataset for providing a valuable resource for retail analytics exploration, skillharves and Miss Chinazom for the Knowledge offers that enable to be able to do this project.
+
